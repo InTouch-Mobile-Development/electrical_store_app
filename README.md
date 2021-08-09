@@ -1,6 +1,6 @@
 # electrical_store_app
 
-A new Flutter application.
+A new Flutter application. Inspired by https://www.youtube.com/watch?v=V9vL9whDEQc
 
 ## Getting Started
 
